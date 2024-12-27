@@ -1,4 +1,4 @@
-**此项目停止开发，对股票数据爬取感兴趣的同学可以关注项目：https://github.com/kingschan1204/easycrawl**
+**此项目停止开发，对股票数据爬取感兴趣的同学可以关注项目：[https://github.com/kingschan1204/easycrawl](https://github.com/kingschan1204/easyCrawl/tree/main)**
 > easycrawl 介绍：初衷想用java写一个简单高效爬取互联网数据的工具包，单元测试里有大量爬取股票数据的例子。
 ---
 
